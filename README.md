@@ -141,4 +141,8 @@ Backend CORS must allow origin http://localhost:3000.
 React shows uploaded filename and then enables submission.
 Input bar for questions is styled to 1218 x 56 as per UI requirement.
 
+## Output Screenshots
+
+
+
 
