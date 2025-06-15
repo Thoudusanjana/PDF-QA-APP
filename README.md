@@ -47,7 +47,7 @@ pdf-qa-app/
 
 ## Clone Repository
 
-git clone https://github.com/yourusername/pdf-qa-app.git
+git clone https://github.com/Thoudusanjana/PDF-QA-APP.git
 cd pdf-qa-app
 
 ## Backend Setup (FastAPI + Ollama)
