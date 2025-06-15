@@ -143,6 +143,10 @@ Input bar for questions is styled to 1218 x 56 as per UI requirement.
 
 ## Output Screenshots
 
+![Image](https://github.com/user-attachments/assets/17b9045c-3989-403f-b83f-85f9770e77a6)
 
+![Image](https://github.com/user-attachments/assets/866a41d2-9d68-43ae-a119-acaad2b1310f)
+
+![Image](https://github.com/user-attachments/assets/f0463c26-8aa4-4236-8e04-d1b343d4c96d)
 
 
